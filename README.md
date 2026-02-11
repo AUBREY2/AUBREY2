@@ -11,7 +11,7 @@
   <a href="mailto:aubreymalefahlo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+##  About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
@@ -21,24 +21,24 @@ When I'm not working with data, I enjoy exploring music instruments and reading 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 
 
-## 🌱 Certifications & Learning 
+##  Certifications & Learning 
 
 - Data Analytics Training (Power BI, SQL, Python)
 - Currently learning: Machine Learning & Advanced Python
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🗄 SQL Data Exploration Project
+###  SQL Data Exploration Project
 - Wrote advanced SQL queries using JOINs, CTEs, and window functions to analyze customer behavior.
 - Identified trends that improved retention strategy recommendations.
 - Tools: SQL Server / MySQL
 
-### 🤖 Python Data Analysis Project
+###  Python Data Analysis Project
 - Cleaned and analyzed messy datasets using Pandas and NumPy.
 - Performed exploratory data analysis (EDA) and built predictive models.
 - Tools: Python, Pandas, Matplotlib
 
-## 🛠️ Technical Skillset
+##  Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
@@ -57,7 +57,7 @@ When I'm not working with data, I enjoy exploring music instruments and reading 
   
 </p>
 
-## 🚀 Career Goals
+##  Career Goals
 
 I am currently focused on securing a Data Analyst / Business Intelligence role where I can:
 
