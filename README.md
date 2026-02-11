@@ -1,10 +1,9 @@
 ## Hi there, I'm Aubrey Malefahlo 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Data+Scientist;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%26+Power+BI+Specialist;Turning+Business+Data+into+Actionable+Insights" alt="Typing SVG" />
 </div>
+
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
@@ -22,9 +21,22 @@ When I'm not working with data, I enjoy exploring music instruments and reading 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 
 
-## 🌱 Currently Learning 
+## 🌱 Certifications & Learning 
 
-- Machine Learning, Data Science
+- Data Analytics Training (Power BI, SQL, Python)
+- Currently learning: Machine Learning & Advanced Python
+
+## 📂 Featured Projects
+
+### 🗄 SQL Data Exploration Project
+- Wrote advanced SQL queries using JOINs, CTEs, and window functions to analyze customer behavior.
+- Identified trends that improved retention strategy recommendations.
+- Tools: SQL Server / MySQL
+
+### 🤖 Python Data Analysis Project
+- Cleaned and analyzed messy datasets using Pandas and NumPy.
+- Performed exploratory data analysis (EDA) and built predictive models.
+- Tools: Python, Pandas, Matplotlib
 
 ## 🛠️ Technical Skillset
 
@@ -44,6 +56,14 @@ When I'm not working with data, I enjoy exploring music instruments and reading 
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   
 </p>
+
+## 🚀 Career Goals
+
+I am currently focused on securing a Data Analyst / Business Intelligence role where I can:
+
+- Solve real-world business problems using data
+- Build dashboards that influence decision-making
+- Transition into Data Science and advanced analytics
 
 #### Business Intelligence & Analytics
 <p>
